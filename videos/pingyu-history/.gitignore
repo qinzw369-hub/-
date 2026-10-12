@@ -1,0 +1,6 @@
+.fonts-src/
+review/
+renders/
+*.mp4
+node_modules/
+.hyperframes/

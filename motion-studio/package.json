@@ -10,11 +10,15 @@
   },
   "devDependencies": {
     "@21st-dev/cli": "^1.18.0",
+    "@fontsource/ma-shan-zheng": "^5.3.1",
+    "@fontsource/noto-sans-sc": "^5.3.1",
+    "@fontsource/noto-serif-sc": "^5.3.1",
     "@remotion/bundler": "^4.0.535",
     "@remotion/cli": "^4.0.535",
     "@remotion/renderer": "^4.0.535",
     "gsap": "^3.14.2",
     "hyperframes": "^0.8.149",
+    "lxgw-wenkai-webfont": "^1.7.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "remotion": "^4.0.535"
